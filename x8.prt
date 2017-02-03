@@ -1,0 +1,21 @@
+X8 REV1 - DIGIKEY PARTS LIST
+----------------------------
+
+1	Atmel ATMEGA328PB-AU (32TQFP)
+1	Microchip 23LC1024-I/SN 1Mb Serial SRAM (8SOIC)
+1	MCP1826S-3302E/DB 3.3V LDO VREG 1A (SOT-223-3)
+
+1	Capacitor 0.1uF [100nF] (X7R 0402) 490-6328-1-ND
+1	Capacitor 1uF [1000nF] (X5R 0402) 490-3890-1-ND
+1	Capacitor 10uF [10000nF] (X5R 0402) 1276-6830-1-ND 
+
+1	Resistor 1K (1/10W 0402) P1.00KLCT-ND
+2	Resistor 10K (1/10W 0402) P10.0KLCT-ND
+
+1	LED (0603) 160-1436-1-ND
+
+1	MicroUSB connector WM17141CT-ND
+
+1	2x3 IDC male header (for AVR ISP) 952-2121-ND
+1	1x4 IDC female connector (for OLED) S7002-ND
+1	2x4 IDC female header (for ESP-01) S7072-ND

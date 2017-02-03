@@ -1,0 +1,15 @@
+Part Value             Device            Package               Description                                             MPN               OC_FARNELL OC_NEWARK PACKAGE   PROD_ID    SUPPLIER 
+C1   10uF              CAP0402-CAP       0402-CAP              Capacitor                                                                                                                    
+C2   1uF               CAP0402-CAP       0402-CAP              Capacitor                                                                                                                    
+C3   0.1uF             CAP0402-CAP       0402-CAP              Capacitor                                                                                                                    
+I2C                    M04PTH            1X04                  Header 4                                                                                                                     
+JP1  AVR_SPI_PRG_6PTH  AVR_SPI_PRG_6PTH  2X3                   AVR ISP 6 Pin                                                                                                                
+LED                    LED0603           LED-0603              LEDs                                                                                                                         
+R1   10K               RESISTOR0402      0402-RES              Resistor                                                                                                                     
+R2   1K                RESISTOR0402      0402-RES              Resistor                                                                                                                     
+R3   10K               RESISTOR0402      0402-RES              Resistor                                                                                                                     
+U$1  ESP01             ESP01             ESP01                 ESP8266 Wifi module 01                                                                                                       
+U1   ATMEGA328PB-AU    ATMEGA328PB-AU    QFP80P900X900X120-32N 8-bit Microcontroller with In-System Programmable Flash ATMEGA328P-AU     1715486    14R4631   TQFP-32              Atmel    
+U2   23LC1024-I/SN     23LC1024-I/SN     SOIC127P600X175-8N    1Mbit SPI Serial SRAM,SOIC-8                            23LC1024-I/SN     2212150    94T8231   SOIC-8               MICROCHIP
+U4   MCP1826S-3302E/DB MCP1826S-3302E/DB SOT230P700X180-4N     IC, LDO, 3.3V, 1A                                       MCP1826S-3302E/DB 1578424    27M0037   SOT-223-3            Microchip
+USB  USB-MICROB        USB-MICROB        USB-MICROB            USB Connectors                                                                                           CONN-09505          
